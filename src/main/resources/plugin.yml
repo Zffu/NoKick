@@ -1,0 +1,8 @@
+name: NoKick
+version: '${project.version}'
+main: net.zffu.nokick.NoKickPlugin
+api-version: 1.19
+prefix: NoKick
+authors: [ Zffu ]
+description: NoKick allows you to do something to users instead of kicking them
+website: zffu.ml

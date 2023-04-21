@@ -1,0 +1,8 @@
+# If the plugin features are enabled
+enabled: true
+
+actions:
+  title:
+    enabled: true
+    title: "&cYou would have been kicked!"
+    subtitle: "&7%reason%"
